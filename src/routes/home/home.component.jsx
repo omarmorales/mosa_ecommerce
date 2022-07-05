@@ -30,7 +30,6 @@ const Home = () => {
   ]
   
   return (
-    // yarn start
     <Directory categories={categories} />
   );
 }
